@@ -3,4 +3,4 @@ const edad =25;
 nombre ="Ana Maria";
 
 const saludo = "Hola, " + nombre + ". Tiene "+ edad + "años.";
-console.log(saludo);
+console.log(saludo);zz
